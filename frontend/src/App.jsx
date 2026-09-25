@@ -108,7 +108,7 @@ export default function App() {
       <footer className="bg-gray-800 text-white text-center py-4 text-sm mt-auto">
         <p>Student Portal & Registration System</p>
         <p className="text-gray-400 text-xs mt-1">
-          Developed by: <span className="text-white font-medium">Bhuvan Gera</span> | KU ID: <span className="text-white font-medium">[YOUR KU ID HERE]</span>
+          Developed by: <span className="text-white font-medium">Bhuvan Gera</span> | KU ID: <span className="text-white font-medium">[23MSCY23]</span>
         </p>
       </footer>
     </div>
